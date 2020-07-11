@@ -1,4 +1,6 @@
-# 🎉
+# Welcome to my home page!
+
+![Under construction](https://raw.githubusercontent.com/fiskeben/fiskeben/master/under-construction.gif)
 
 Go enthusiast and Kubernetes helmsman working at @apparatno.
 

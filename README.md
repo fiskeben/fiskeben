@@ -1,16 +1,13 @@
-### Hi there 👋
+# 🎉
 
-<!--
-**fiskeben/fiskeben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Go enthusiast and Kubernetes helmsman working at @apparatno.
 
-Here are some ideas to get you started:
+🗄️ My repositories are mostly old rubbish but there are also some interesting
+IoT stuff and Go libraries.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✋ If you need any help with Go development, please reach out.
+You can reach me via:
+
+* 📫 ricco@apparat.no
+* ☎️ +47 40 60 40 88
+* 🐦 [Twitter](https://twitter.com/fiskeben)
